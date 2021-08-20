@@ -5,7 +5,7 @@ log_level: debug
 signaling_log_name: signaling.log
 
 listen_ipv4_address: 0.0.0.0
-listen_port_number: 3000
+listen_port_number: 443
 
 # authn_webhook_url: http://127.0.0.1:3001/ayame/webhook/authn
 # disconnect_webhook_url: http://127.0.0.1:3001/ayame/webhook/disconnect
